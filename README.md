@@ -1,6 +1,6 @@
 # React + Vite
-Here is the link of deployed version :- https://brainwave-0hx5.onrender.com
-\nThis template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here is the link of deployed version :- https://brainwave-0hx5.onrender.com <br>
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
